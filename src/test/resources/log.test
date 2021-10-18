@@ -1,0 +1,11 @@
+NovoProp:Laurindo,111222333,111222333@gmail.com,Miranda do Douro
+NovoCliente:Ricardo Miguel da Silva Pereira,333222111,333222111@gmail.com,Mesão Frio,-7.120941,-10.399986
+NovoCarro:Electrico,Microcar,CZ-73-82,111222333,39,2.2007167,0.51200515,791,30.1232,-79.07995
+Aluguer:333222111,51.594437,-83.07394,Electrico,MaisPerto
+Aluguer:333222111,63.773514,-85.581505,Electrico,MaisPerto
+Aluguer:333222111,-61.539616,3.2944336,Gasolina,MaisBarato
+Aluguer:333222111,2.4826431,70.44467,Electrico,MaisBarato
+Classificar:CZ-73-82,99
+Classificar:CZ-73-82,9
+Classificar:CZ-73-82,37
+Classificar:333222111,35
